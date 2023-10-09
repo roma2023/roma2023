@@ -1,4 +1,4 @@
-![Alt Text](https://gifdb.com/images/high/pusheen-cat-hi-tf05i7kbahvozz53.gif)
+<img src="https://gifdb.com/images/high/pusheen-cat-hi-tf05i7kbahvozz53.gif" width="200">
 
 
 ## Hey there! 😊 I'm Raman, but you can call me just Roma)🌟
