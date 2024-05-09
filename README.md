@@ -8,7 +8,7 @@ Outside of work, I'm a huge fan of outdoor team activities — soccer, tennis, a
 
 
 ## Current Work:
-- 🔭 Right now I'm working on ... the OpenSearch project for AWS.
+- 🔭 Right now I'm working on ... the OpenSearch project for AWS and building own side projects.
 - 🌱 I'm learning more about... building AI systems and BlockChain technology.
 - 👯 I'm looking to collaborate on ... building web applications.
 - 🤔 I'm looking for help with ... my start-up on integrating BlockChain and AI.
